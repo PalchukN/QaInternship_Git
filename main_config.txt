@@ -1,1 +1,2 @@
 first commitUpdated main config!
+"new feature 2" 
